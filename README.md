@@ -10,7 +10,7 @@ This project examines whether worry-stress profiles can predict clinical depress
 
 | File / Folder | Description |
 |---|---|
-| `code.ipynb` | Main notebook — EDA, supervised learning, unsupervised learning |
+| `code.ipynb` | Main notebook - EDA, supervised learning, unsupervised learning |
 | `figures/` | All output plots saved during notebook execution |
 | `scale_items.csv` | Item text and response labels for all 28 predictor variables |
 | `next_submission_plan.md` | Roadmap for Section IV (Result Analysis) and Section V (Conclusion), to be completed in the final submission |
@@ -19,10 +19,10 @@ This project examines whether worry-stress profiles can predict clinical depress
 
 | Section | Content |
 |---|---|
-| **I — EDA** | Data loading & merging, quality checks, descriptive statistics, target distribution, feature encoding, collinearity analysis |
-| **II — Supervised Learning** | Logistic Regression (LR-1–7) and Decision Tree (DT-1–5) with progressively more sophisticated imbalance-handling strategies; model comparison; reflection on best model (LR-7) |
-| **III — Unsupervised Learning** | PCA (dimensionality reduction + interpretation), K-Means clustering (elbow method, k=4 phenotypes), internal and external cluster evaluation |
+| **I - EDA** | Data loading & merging, quality checks, descriptive statistics, target distribution, feature encoding, collinearity analysis |
+| **II - Supervised Learning** | Logistic Regression (LR-1–7) and Decision Tree (DT-1–5) with progressively more sophisticated imbalance-handling strategies; model comparison; reflection on best model (LR-7) |
+| **III - Unsupervised Learning** | PCA (dimensionality reduction + interpretation), K-Means clustering (elbow method, k=4 phenotypes), internal and external cluster evaluation |
 
 ## Current Submission Status
 
-Sections I–III are complete. Section IV (Result Analysis) and Section V (Summary & Conclusion) are planned for the final submission — see `next_submission_plan.md` for the roadmap.
+Sections I-III are complete. Section IV (Result Analysis) and Section V (Summary & Conclusion) are planned for the final submission — see `next_submission_plan.md` for the roadmap.
