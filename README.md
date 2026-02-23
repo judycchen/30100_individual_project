@@ -4,7 +4,7 @@ Author: Judy Chen
 
 ## Project Overview
 
-This project examines whether worry-stress profiles can predict clinical depression (PHQ-9 ≥ 10) in Chinese university students (n ≈ 24,000), and whether distinct worry-stress phenotypes emerge from the data. Predictors are item-level responses from three scales: GAD-7 (anxiety/worry), PSS-14 (perceived stress), and ISI (insomnia severity).
+This project examines whether worry-stress profiles can predict clinical depression (PHQ-9 >= 10) in Chinese university students (n = 24,292), and whether distinct worry-stress phenotypes emerge from the data. Predictors are item-level responses from three scales: GAD-7 (anxiety/worry), PSS-14 (perceived stress), and ISI (insomnia severity).
 
 ## Repository Structure
 
